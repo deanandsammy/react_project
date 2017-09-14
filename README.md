@@ -1,2 +1,3 @@
 # react_project
-基于 react + redux 的项目
+
+react+redux+react-router+fetch+es6+webpack
